@@ -6,7 +6,7 @@ We're gonna ~rock the vote~ er... Stuff the ballot box! [Fedscoop Best Bosses in
 
 1. Download the zip of all these files, click the green "Code" button above and select "Download ZIP".
 
-2. Unzip the archive so you have a folder named 'vote4neal'
+2. Unzip the archive so you have a folder named 'vote4neal-master'
 
 3. Open Chrome and go to extensions: chrome://extensions/
 
