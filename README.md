@@ -4,7 +4,7 @@ We're gonna ~rock the vote~ er... Stuff the ballot box! [Fedscoop Best Bosses in
 
 ## Setup
 
-1. Download the zip of all these files.
+1. Download the zip of all these files, click the green "Code" button above and select "Download ZIP".
 
 2. Unzip the archive so you have a folder named 'vote4neal'
 
